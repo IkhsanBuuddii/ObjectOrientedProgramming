@@ -20,7 +20,7 @@
     <h2>Setup</h2>
     <p>
         1. Clone the repository:<br>
-        <code>git clone https://github.com/IkhsanBuuddii/OIbjectOrientedProgramming</code><br><br>
+        <code>git clone https://github.com/IkhsanBuuddii/ObjectOrientedProgramming</code><br><br>
         2. Navigate to the project directory:<br>
         <code>cd PBO-OOP</code><br><br>
         3. Follow the instructions in each project folder for setup and execution.
